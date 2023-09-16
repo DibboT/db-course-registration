@@ -1,0 +1,43 @@
+.remaining-hour{
+    font-size: 16px;
+    font-weight: bold;
+    color: #2F80ED;
+    padding-left:10px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.cart-container{
+    background:#FFFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 280px;
+    text-align: left;
+    
+}
+.course-name{
+    font-size: 16px;
+    padding-left:10px;
+    font-weight: bold;
+}
+
+.total-price{
+    font-size: 16px;
+    padding-left:10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.total-credit{
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+ol{
+    list-style: none;
+}
+
+.hr-line{
+    width: 240px;
+    background: rgba(28, 27, 27, 0.20);
+}

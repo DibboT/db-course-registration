@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/zZGq6HH/cprogramming.png",
+    "course_name": "Introduction to C Programming",
+    "course_description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/KbfND1N/algorithms.png",
+    "course_name": "Introduction to Algorithms",
+    "course_description": "Explore the world of data science with Python, statistics, and machine learning.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/pnKvJ5R/c-fordsa.png",
+    "course_name": "Introduction to C++ for DSA",
+    "course_description": "Unlock your creative potential with in-depth graphic design techniques.",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/ZNpV632/basicdatastructure.png",
+    "course_name": "Basic Data Structures",
+    "course_description": "Get a grip on personal finance, investments, and retirement planning.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/yRRmnMf/pythonoop.png",
+    "course_name": "Introduction to OOP Python",
+    "course_description": "Build mobile apps for iOS and Android using modern development tools.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/nzCTWFH/softwareengineering.png",
+    "course_name": "Software Engineering",
+    "course_description": "Build mobile apps for iOS and Android using modern development tools.",
+    "price": 23000,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/HFbszM3/aws.png",
+    "course_name": "AWS, Cloud Computing",
+    "course_description": "Build mobile apps for iOS and Android using modern development tools.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/VpHFc2q/database.png",
+    "course_name": "Database (MySQL)",
+    "course_description": "Build mobile apps for iOS and Android using modern development tools.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/FBrJXyK/problemsolving.png",
+    "course_name": "Problem-Solving Part",
+    "course_description": "Build mobile apps for iOS and Android using modern development tools.",
+    "price": 23000,
+    "credit": 2
+  }
+]
